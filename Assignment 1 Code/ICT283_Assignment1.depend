@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1555754046 source:e:\ict283\283\assignment 1\code\ict283_assignment1\climate.cpp
+	"Climate.h"
+
+1555754046 e:\ict283\283\assignment 1\code\ict283_assignment1\climate.h
+	"Date.h"
+	"Time.h"
+
+1555567494 e:\ict283\283\assignment 1\code\ict283_assignment1\date.h
+	<iostream>
+	<string.h>
+
+1555567494 e:\ict283\283\assignment 1\code\ict283_assignment1\time.h
+
+1555567494 source:e:\ict283\283\assignment 1\code\ict283_assignment1\date.cpp
+	"date.h"
+
+1555567494 source:e:\ict283\283\assignment 1\code\ict283_assignment1\time.cpp
+	"Time.h"
+
+1555921782 source:e:\ict283\283\assignment 1\code\ict283_assignment1\windlog.cpp
+	<iostream>
+	"Windlog.h"
+	<cmath>
+
+1555921782 e:\ict283\283\assignment 1\code\ict283_assignment1\windlog.h
+	"Vector.h"
+	"Date.h"
+	"Time.h"
+
+1555919086 e:\ict283\283\assignment 1\code\ict283_assignment1\vector.h
+
+1555927754 source:e:\ict283\283\assignment 1\code\ict283_assignment1\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<cmath>
+	"Windlog.h"
+	"Vector.h"
+	"Date.h"
+	"Time.h"
+
+1555567494 source:e:\ict283\283\assignment 1\ict283_assignment1_sinloomah_33220079\code\date.cpp
+	"date.h"
+
+1555946148 e:\ict283\283\assignment 1\ict283_assignment1_sinloomah_33220079\code\date.h
+	<iostream>
+	<string.h>
+
+1555997842 source:e:\ict283\283\assignment 1\ict283_assignment1_sinloomah_33220079\code\time.cpp
+	"Time.h"
+
+1555946148 e:\ict283\283\assignment 1\ict283_assignment1_sinloomah_33220079\code\time.h
+
+1556003014 source:e:\ict283\283\assignment 1\ict283_assignment1_sinloomah_33220079\code\windlog.cpp
+	<iostream>
+	"Windlog.h"
+	<cmath>
+
+1556003016 e:\ict283\283\assignment 1\ict283_assignment1_sinloomah_33220079\code\windlog.h
+	"Vector.h"
+	"Date.h"
+	"Time.h"
+
+1555946148 e:\ict283\283\assignment 1\ict283_assignment1_sinloomah_33220079\code\vector.h
+
+1556003014 source:e:\ict283\283\assignment 1\ict283_assignment1_sinloomah_33220079\code\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<cmath>
+	"Windlog.h"
+	"Vector.h"
+	"Date.h"
+	"Time.h"
+
